@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak, Holly Ellyatt",
+            "title": "Ukraine war live updates: Russia warns U.S. of 'unpredictable consequences' if it sends Patriot missile systems to Ukraine - CNBC",
+            "description": "Russia warned the U.S. that if it sends Patriot missile systems to Ukraine it will consider the move a provocation that could have \"unpredictable consequences.\"",
+            "url": "https://www.cnbc.com/2022/12/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107166665-1671088926546-gettyimages-158520754-72683723.jpeg?v=1671094024&w=1920&h=1080",
+            "publishedAt": "2022-12-15T14:36:00Z",
+            "content": "The U.N. warned that nearly 7 million children in Ukraine are don't have regular access to electricity, heat or water, raising their risks as temperatures drop. \r\n\"Millions of children are facing a b… [+767 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Sana Noor Haq and Ed Upright, CNN",
+            "title": "Russia's war in Ukraine: Live updates - CNN",
+            "description": "Ukrainian air defense forces shot down 13 Iranian-made drones over Kyiv, President Volodymyr Zelensky said, following a barrage of Russian strikes on the capital. Follow here for live updates.",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-12-15-22/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221214152959-04-europe-security-super-tease.jpg",
+            "publishedAt": "2022-12-15T10:59:00Z",
+            "content": "Ukrainian forces carried out the biggest attack on the occupied Donetsk region of the country since 2014 on Thursday, according to a Russian-installed official.\r\nDonetsk has been held by Russian-back… [+1532 chars]"
+        }
+    ]
+}
